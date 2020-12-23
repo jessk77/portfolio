@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c5a3ee5c.chunk.css",
+    "main.js": "/portfolio/static/js/main.6e012680.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6e012680.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fe9ad235.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fe9ad235.js.map",
+    "static/js/2.0910e72a.chunk.js": "/portfolio/static/js/2.0910e72a.chunk.js",
+    "static/js/2.0910e72a.chunk.js.map": "/portfolio/static/js/2.0910e72a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.ff2802d852e1bdb017c9cedb18e2d5ab.js": "/portfolio/precache-manifest.ff2802d852e1bdb017c9cedb18e2d5ab.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.c5a3ee5c.chunk.css.map": "/portfolio/static/css/main.c5a3ee5c.chunk.css.map",
+    "static/js/2.0910e72a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0910e72a.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/portfolio/static/media/avatar.02398a03.jpg",
+    "static/media/css.png": "/portfolio/static/media/css.75e4d6d5.png",
+    "static/media/github.png": "/portfolio/static/media/github.acf172f2.png",
+    "static/media/html.png": "/portfolio/static/media/html.31039a53.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.6a4c201c.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.efd22267.png",
+    "static/media/php.png": "/portfolio/static/media/php.1befcc4c.png",
+    "static/media/profile-bg.jpg": "/portfolio/static/media/profile-bg.baf6b40a.jpg",
+    "static/media/python.png": "/portfolio/static/media/python.6dd7bc34.png",
+    "static/media/react.png": "/portfolio/static/media/react.f297dfcd.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.a2bc8ecf.png",
+    "static/media/studio-1.jpg": "/portfolio/static/media/studio-1.58073edb.jpg",
+    "static/media/studio-2.jpg": "/portfolio/static/media/studio-2.95aa159a.jpg",
+    "static/media/studio-4.jpg": "/portfolio/static/media/studio-4.2c277181.jpg",
+    "static/media/studio-5.jpg": "/portfolio/static/media/studio-5.4ce5947d.jpg",
+    "static/media/studio-6.jpg": "/portfolio/static/media/studio-6.1aabdaa3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe9ad235.js",
+    "static/js/2.0910e72a.chunk.js",
+    "static/css/main.c5a3ee5c.chunk.css",
+    "static/js/main.6e012680.chunk.js"
+  ]
+}
